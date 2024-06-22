@@ -5,10 +5,10 @@ const siteMetadata = {
     description: 'OpenVoiceOS is a community-driven, open-source voice AI platform for creating custom voice-controlled ​interfaces across devices with NLP, a customizable UI, and a focus on privacy and security.',
     language: 'en-us',
     theme: 'system',
-    siteUrl: 'https://blog.openvoiceos.org',
+    siteUrl: 'https://suvanbanerjee.github.io/ovos-blogs/',
     siteLogo: '/logo.png',
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
+    email: 'banerjeesuvan@gmail.com', 
+    github: 'https://github.com/suvanbanerjee',
     locale: 'en-US',
   }
   
