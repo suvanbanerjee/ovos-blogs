@@ -3,7 +3,7 @@ import "./globals.css";
 import { Inter } from 'next/font/google'
 
 import { cx } from "@/src/utils";
-// import Header from "../components/Header/header";
+import Header from "../components/Header/header";
 import Footer from "../components/Footer";
 import siteMetadata from "../utils/siteMetaData";
 import {ThemeProvider as NextThemesProvider} from "next-themes";
@@ -59,7 +59,7 @@ export default function RootLayout({ children }) {
         )}
       >
         <NextThemesProvider attribute="class">
-        {/* <Header /> */}
+        <Header />
         {/* Head needs some work */}
         {children}
         <Footer />
